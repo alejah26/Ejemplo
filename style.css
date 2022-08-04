@@ -1,0 +1,19 @@
+html{
+    font-family: sans-serif;
+}
+h1{
+    font-family: inherit;
+    font-size: 24px;
+    color: blueviolet;
+}
+
+#comida{
+    font-size: 18px;
+    color: palevioletred;
+    border: 1px;
+    border-color: aquamarine;
+    border-width: 12px;
+    margin: 20px;
+    padding: 3px;
+
+}
